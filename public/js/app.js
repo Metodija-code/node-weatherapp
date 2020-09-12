@@ -40,3 +40,5 @@ weatherForm.addEventListener("submit", (e) => {
 // git status - see files that waits to be commited (untracked files)
 // to ignore files we create file .gitignore ant there we list files we want to ignore
 // git add  - add files to stageing area that are going to be comitted. We can add single files or we can list directory to add ex: git add src/
+// git add . add everything to the stageing area
+// git commit -m "changes in code" - commit files and with -m "" we provide message that describe changes in commit
